@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+# Project exclude paths
+/venv/
+.idea/
